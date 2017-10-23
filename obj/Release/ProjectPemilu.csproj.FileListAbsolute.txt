@@ -1,0 +1,16 @@
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\bin\Release\ProjectPemilu.exe.config
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\bin\Release\ProjectPemilu.exe
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\bin\Release\ProjectPemilu.pdb
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.csprojResolveAssemblyReference.cache
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.Properties.Resources.resources
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.csproj.GenerateResource.Cache
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.csproj.CoreCompileInputs.cache
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.exe
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.pdb
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.LoginCustomer.resources
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\bin\Release\MySql.Data.dll
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\bin\Release\MySql.Data.xml
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.LoginAdmin.resources
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.Administrator.resources
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.FormCandidate.resources
+F:\KULIAH\Semester 5\Prak PPK\Project\ProjectPemilu\ProjectPemilu\obj\Release\ProjectPemilu.FormSociety.resources
