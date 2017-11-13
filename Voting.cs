@@ -122,10 +122,10 @@ namespace ProjectPemilu
                 int candidate = Convert.ToInt16(ds[1].Tables[0].Rows[0]["Jumlah"].ToString()) / 2;
                 double[] percentage = new double[candidate];
                 int[] eachPercentage = new int[2];
-                eachPercentage[0] = (Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString()) == 0) ?
+                eachPercentage[0] = (Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString() + 1) == 0) ?
+                    100 : 100 / (Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString()) + 1);
+                eachPercentage[1] = (Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString()) == 0) ?
                     100 : 100 / Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString());
-                eachPercentage[1] = ((Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString()) - 1) == 0) ?
-                    100 : 100 / (Convert.ToInt16(ds[3].Tables[0].Rows[0]["Jumlah"].ToString()) - 1);
                 int[] person = new int[candidate];
                 for (int i = 0; i < candidate; i++)
                 {
